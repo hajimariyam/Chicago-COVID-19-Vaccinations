@@ -4,4 +4,4 @@ A Python program that graphs daily and cumulative Covid-19 vaccination data for 
  
  *Example:*
  
-<img src='example.PNG' title='Sample Graph' width='50%' />
+<img src='example.PNG' title='Sample Graph' width='65%' />
